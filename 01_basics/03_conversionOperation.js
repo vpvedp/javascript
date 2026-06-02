@@ -9,7 +9,7 @@ let valueInNumber = Number(score)
 
 //"11" => number
 // true => 1  false => 0
-//11abs => NaN
+//11abs => NaN 
 
 let isLoggedIn = "Radha"
 let chagedBoolean = Boolean(isLoggedIn)
